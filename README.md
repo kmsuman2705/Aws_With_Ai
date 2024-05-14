@@ -1,1 +1,1 @@
-# awswithai
+# awswithAI
